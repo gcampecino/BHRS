@@ -1,0 +1,9 @@
+1)admin
+  -as an owner/super admin I can list of borders
+  -as an owner/super admin I can list,create,update,delete of borders 
+  -as an owner/super admin I can list,create,update,delete of users
+2)frontend
+  -as a user he can view bordinghouse details and the rooms
+  -as a user he can make reservation
+3)login
+4)user registration
